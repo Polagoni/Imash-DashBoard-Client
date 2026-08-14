@@ -1,0 +1,16 @@
+{
+  "/(admin)/adminclients/[id]/page": "/adminclients/[id]",
+  "/(admin)/admincustmors/[id]/page": "/admincustmors/[id]",
+  "/(admin)/admindashboard/page": "/admindashboard",
+  "/(admin)/adminpolacies/[id]/page": "/adminpolacies/[id]",
+  "/(admin)/registration/page": "/registration",
+  "/(public)/adminlogin/page": "/adminlogin",
+  "/(public)/userlogin/page": "/userlogin",
+  "/(user)/customers/[id]/page": "/customers/[id]",
+  "/(user)/dashboard/page": "/dashboard",
+  "/(user)/policiesdashboard/[id]/page": "/policiesdashboard/[id]",
+  "/(user)/profile/page": "/profile",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/page": "/"
+}

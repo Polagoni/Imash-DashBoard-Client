@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/Desktop_dash_board_Imash-DashBoard-Client_628b3269._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__18b9ebb1._.js")
+R.c("server/chunks/ssr/efd6f_next_dist_esm_build_templates_app-page_a0ba64a5.js")
+R.c("server/chunks/ssr/[root-of-the-server]__313564ba._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__71e03f22._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__2488ec2e._.js")
+R.c("server/chunks/ssr/Desktop_dash_board_Imash-DashBoard-Client_app_7df63912._.js")
+R.c("server/chunks/ssr/efd6f_next_dist_client_components_aa9f057c._.js")
+R.c("server/chunks/ssr/efd6f_next_dist_client_components_builtin_forbidden_1ec0609b.js")
+R.c("server/chunks/ssr/342e0_mash-DashBoard-Client__next-internal_server_app__not-found_page_actions_d60d4fe5.js")
+R.m(48745)
+module.exports=R.m(48745).exports

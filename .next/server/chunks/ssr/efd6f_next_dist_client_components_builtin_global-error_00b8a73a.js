@@ -1,0 +1,3 @@
+module.exports=[36410,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(62151);a.n(d("[project]/Desktop/dash_board/Imash-DashBoard-Client/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},4621,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(62151);a.n(d("[project]/Desktop/dash_board/Imash-DashBoard-Client/node_modules/next/dist/client/components/builtin/global-error.js"))},67872,a=>{"use strict";a.i(36410);var b=a.i(4621);a.n(b)}];
+
+//# sourceMappingURL=efd6f_next_dist_client_components_builtin_global-error_00b8a73a.js.map

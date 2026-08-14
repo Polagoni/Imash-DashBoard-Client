@@ -1,0 +1,16 @@
+{
+  "/(admin)/adminclients/[id]/page": "app/(admin)/adminclients/[id]/page.js",
+  "/(admin)/admincustmors/[id]/page": "app/(admin)/admincustmors/[id]/page.js",
+  "/(admin)/admindashboard/page": "app/(admin)/admindashboard/page.js",
+  "/(admin)/adminpolacies/[id]/page": "app/(admin)/adminpolacies/[id]/page.js",
+  "/(admin)/registration/page": "app/(admin)/registration/page.js",
+  "/(public)/adminlogin/page": "app/(public)/adminlogin/page.js",
+  "/(public)/userlogin/page": "app/(public)/userlogin/page.js",
+  "/(user)/customers/[id]/page": "app/(user)/customers/[id]/page.js",
+  "/(user)/dashboard/page": "app/(user)/dashboard/page.js",
+  "/(user)/policiesdashboard/[id]/page": "app/(user)/policiesdashboard/[id]/page.js",
+  "/(user)/profile/page": "app/(user)/profile/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js"
+}

@@ -1,0 +1,15 @@
+[00:00:02.875] Server  WARN    ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:03.134] Server  LOG     ✓ Ready in 2.7s
+[00:00:08.321] Server  LOG     token: undefined
+[00:00:08.321] Server  LOG     role: undefined
+[00:00:08.322] Server  LOG     path: /
+[00:00:11.334] Server  LOG     ○ Compiling / ...
+[00:00:16.515] Server  WARN    ⚠ Cross origin request detected from 10.0.0.130 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:00:16.542] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:18.301] Server  LOG     token: undefined
+[00:00:18.302] Server  LOG     role: undefined
+[00:00:18.302] Server  LOG     path: /userlogin
+[00:00:27.779] Server  LOG     token: undefined
+[00:00:27.780] Server  LOG     role: undefined
+[00:00:27.780] Server  LOG     path: /userlogin

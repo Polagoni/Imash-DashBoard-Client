@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/PLGNIUAER00088/Desktop/dash_board/Imash-DashBoard-Client/app/%28public%29/layout.tsx"],"sourcesContent":["import { cookies } from \"next/headers\";\r\nimport { redirect } from \"next/navigation\";\r\n\r\nexport default async function PublicLayout({\r\n  children,\r\n}: {\r\n  children: React.ReactNode;\r\n}) {\r\n\r\n  const cookieStore = cookies();\r\n  const token = (await cookieStore).get(\"token\")?.value;\r\n\r\n  // If already logged in → redirect to dashboard\r\n  if (token) {\r\n    redirect(\"/\");\r\n  }\r\n\r\n  return (\r\n    <div>\r\n      <main>{children}</main>\r\n    </div>\r\n  );\r\n}"],"names":[],"mappings":";;;;;AAAA;AACA;AAAA;;;;AAEe,eAAe,aAAa,EACzC,QAAQ,EAGT;IAEC,MAAM,cAAc,IAAA,mMAAO;IAC3B,MAAM,QAAQ,CAAC,MAAM,WAAW,EAAE,GAAG,CAAC,UAAU;IAEhD,+CAA+C;IAC/C,IAAI,OAAO;QACT,IAAA,0PAAQ,EAAC;IACX;IAEA,qBACE,uSAAC;kBACC,cAAA,uSAAC;sBAAM;;;;;;;;;;;AAGb"}}]
+}
